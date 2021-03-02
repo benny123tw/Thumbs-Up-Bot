@@ -1,0 +1,20 @@
+{
+  "bots": [
+    {
+      "name": "ThumbsUpBot",
+      "token": "TOKEN_TUB",
+      "tag": "[TUB]",
+      "prefix": "~",
+      "author": "Benny Yen",
+      "version": "1.2.5"
+    },
+    {
+      "name": "TestBot",
+      "token": "TOKEN_TEST",
+      "tag": "[TEST]",
+      "prefix": "~",
+      "author": "Benny Yen",
+      "version": "0.0.1"
+    }
+  ]
+}
