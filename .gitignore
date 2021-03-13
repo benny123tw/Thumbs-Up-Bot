@@ -1,3 +1,6 @@
+# gitignore
+.gitignore
+
 # Logs
 logs
 *.log
@@ -69,5 +72,6 @@ typings/
 .idea
 
 # AWS profile
-.tlp
+*.tlp
+AWS_2.tlp
 
